@@ -9,7 +9,7 @@ What can you do in order to make us succeed in our mission?
 
 ## Sponsor
 
-We've got some big projects coming up in the near future.
+We've got some [big projects](PROJECTS.md) coming up in the near future.
 Want to help us improve our package? Take a look at our [open collective page](https://opencollective.com/php-soap).
 You can find the next big things we will be working on and help us make time to build it.
 If you are satisfied about this project or if we helped you out in any ways, feel free to thank us with any donation. 
@@ -21,7 +21,7 @@ Not only will we transfer all learned gains from your project back into our code
 we will invest the profit from your project back into this project.
 Just like sponsoring, this will help us shipping our next big feature.
 
-Reach out to [toon.verwerft@phpro.be](mailto:toon.verwerft@phpro.be) with your project details so that we can arrange the specifics.
+Reach out to [soap@phpro.be](mailto:soap@phpro.be) with your project details so that we can arrange the specifics.
 
 ## Contribute
 
