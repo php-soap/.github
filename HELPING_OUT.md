@@ -29,6 +29,8 @@ We are looking for people who want to contribute to our SOAP projects!
 Found a typo? Found a bug? Is something missing from the documentation? Let us know!
 If you are interested into bringing in additional features, reach out to us so that we can share our vision and point you in the right direction. 
 
+All contributions are highly welcomed. Before you do, make sure you read our [general contributing guidelines](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md). Your code will be released under the [MIT license](LICENSE).
+
 ## Maintain
 
 We spend a lot of time helping out people with SOAP related issues.
