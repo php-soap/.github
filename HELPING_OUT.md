@@ -19,7 +19,7 @@ If you are satisfied about this project or if we helped you out in any ways, fee
 You can hire one of our experts to help you out with any SOAP implementation you need to take care of.
 Not only will we transfer all learned gains from your project back into our code, 
 we will invest the profit from your project back into this project.
-Just like sponsoring, this will help us shipping our next big feature.
+Just like sponsoring, this will help us shipping our [next big project](PROJECTS.md).
 
 Reach out to [soap@phpro.be](mailto:soap@phpro.be) with your project details so that we can arrange the specifics.
 
