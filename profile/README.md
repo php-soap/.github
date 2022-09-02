@@ -10,6 +10,6 @@ They can be used to build your own SoapClient abstraction or to base your specif
 
 # Contributing
 
-All contributions are highly welcomed. Before you do, make sure you read our general [contributing guidelines](https://github.com/php-soap/.github/blob/main/CODE_OF_CONDUCT.md) and [code of conduct](https://github.com/php-soap/.github/blob/main/CODE_OF_CONDUCT.md).
+All contributions are highly welcomed. Before you do, make sure you read our general [contributing guidelines](https://github.com/php-soap/.github/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/php-soap/.github/blob/main/CODE_OF_CONDUCT.md).
 Your code will be released under the [MIT license](https://github.com/php-soap/.github/blob/main/LICENSE).
 
