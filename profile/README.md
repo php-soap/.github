@@ -15,6 +15,8 @@ They can be used to build your own SoapClient abstraction or to base your specif
 - [Contribute](https://github.com/php-soap/.github/blob/main/HELPING_OUT.md#contribute)
 - [Help maintain these packages](https://github.com/php-soap/.github/blob/main/HELPING_OUT.md#maintain)
 
+Want more information about the future of this project? Check out this list of the [https://github.com/php-soap/.github/blob/main/PROJECTS.md](next big projects) we'll be working on.
+
 # Contributing
 
 All contributions are highly welcomed. Before you do, make sure you read our general [contributing guidelines](https://github.com/php-soap/.github/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/php-soap/.github/blob/main/CODE_OF_CONDUCT.md).
