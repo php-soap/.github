@@ -8,7 +8,7 @@ The packages inside the php-soap organisation can be used completely stand-alone
 They can be used to build your own SoapClient abstraction or to base your specific integration on.
 
 
-# Want to help out?
+# Want to help out? 💚
 
 - [Become a Sponsor](https://github.com/php-soap/.github/blob/main/HELPING_OUT.md#sponsor)
 - [Let us do your implementation](https://github.com/php-soap/.github/blob/main/HELPING_OUT.md#let-us-do-your-implementation)
