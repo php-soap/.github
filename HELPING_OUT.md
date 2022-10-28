@@ -1,4 +1,4 @@
-# Want to help out?
+# Want to help out? 💚
 
 Our mission is to provide a modern full replacement for PHP's ext-soap in the far future.
 Given the big amount of SOAP related bugs in PHP, this isn't an easy job to complete.
