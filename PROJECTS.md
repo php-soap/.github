@@ -2,9 +2,21 @@
 
 This page contains a list of the next big projects!
 
-1. [Better types](#better-types)
-2. Encoding / Decoding
+1. [Encoding / Decoding](#encoding)
 
+
+## Encoding / Decoding
+
+The most known issues happen at ext-soap encoding / decoding's.
+Because these are limitations in PHP's SOAP implementation, it is not something we can deal with at this time.
+In order to solve this, we would need to write a pure PHP encoding / decoding implementation.
+
+[More details about the project and the list of known issues can be found here.](https://github.com/phpro/soap-client/issues/485)
+
+
+# Finished projects
+
+1. [Better types](#better-types)
 
 ## Better types
 
